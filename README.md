@@ -15,7 +15,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
  
   - created a new table to rereive all the rows where the total_votes count is equal to or greater than 20 to pick reviews that are more likely to be helpful and to avoid having division by zero errors later on.
 
-        ![total votes greater than 20](./images/totvotesgreat20.PNG)
+        ![total votes greater than 20](https://github.com/helanga/Amazon_Vine_Analysis/blob/main/images/totvotesgreat20.PNG)
 
 
    - Filter the new table created in above step to create table to retreive all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.
