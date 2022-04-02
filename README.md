@@ -90,7 +90,7 @@ So we can clearly say  there is any positivity bias for reviews in the Vine prog
 
     ![Vine 5 star](./images/precentagevine3starN.PNG)
  
- So the Three stars vine reiviews has highest presentage(17.39%) and three star non vine reiviewa has less presentage (9.57%),which supports the statement there is any positivity bias for reviews in the Vine program. 
+ So the Three stars vine reiviews has highest presentage(17.39%) than three star non vine reiviewa with presentage (9.57%),which supports the statement there is any positivity bias for reviews in the Vine program. 
 
 
 
