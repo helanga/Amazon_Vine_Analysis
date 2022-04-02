@@ -15,6 +15,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
  
   - created a new table to rereive all the rows where the total_votes count is equal to or greater than 20 to pick reviews that are more likely to be helpful and to avoid having division by zero errors later on.
 
+    
         ![total votes greater than 20](https://github.com/helanga/Amazon_Vine_Analysis/blob/main/images/totvotesgreat20.PNG)
 
 
